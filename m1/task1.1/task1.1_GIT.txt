@@ -1,0 +1,22 @@
+3da8531 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+492e927 HEAD@{1}: checkout: moving from develop to main
+3da8531 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): Modified index.html to make the merge work
+afddcc5 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+9cd133c HEAD@{4}: checkout: moving from styles to develop
+af149ce (origin/styles, styles) HEAD@{5}: checkout: moving from develop to styles
+9cd133c HEAD@{6}: checkout: moving from styles to develop
+af149ce (origin/styles, styles) HEAD@{7}: checkout: moving from images to styles
+afddcc5 (origin/images, images) HEAD@{8}: checkout: moving from develop to images
+9cd133c HEAD@{9}: checkout: moving from styles to develop
+af149ce (origin/styles, styles) HEAD@{10}: commit: Modified index.html in the styles branch
+07135f1 HEAD@{11}: commit: Add the Styles folder with styles source file styles.css
+9cd133c HEAD@{12}: checkout: moving from develop to styles
+9cd133c HEAD@{13}: checkout: moving from images to develop
+afddcc5 (origin/images, images) HEAD@{14}: commit: Modified index.html with cat.jpg image source
+ec58691 HEAD@{15}: commit: Add the folder Images with cat.jpg image
+9cd133c HEAD@{16}: checkout: moving from develop to images
+9cd133c HEAD@{17}: commit: add index.html
+492e927 HEAD@{18}: checkout: moving from main to develop
+492e927 HEAD@{19}: commit: Add index.html
+f98e2e9 HEAD@{20}: clone: from https://github.com/YehorTelehaQA/DevOps_online_Kharkiv_2022Q1.git
+
